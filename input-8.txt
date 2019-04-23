@@ -1,0 +1,25 @@
+struct A 8
+field num_a -2
+field num_b 2
+field ptr_c B
+field string_d Ifwt
+field num_e -22
+field string_f jpprro
+field num_g 3
+field ptr_h C
+
+struct B 8
+field string_a Epmdtjhkiy
+field string_b Qkwbmrkie
+field num_c 49
+field num_d 79
+field string_e rwslkudq
+field num_f -94
+
+struct C 8
+field num_a 57
+field num_b 1
+field num_c 53
+field string_d tspyvfo
+field string_e qyybo
+
